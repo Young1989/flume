@@ -32,7 +32,7 @@ public class KafkaSinkConstants {
   public static final String BOOTSTRAP_SERVERS_CONFIG =
       KAFKA_PREFIX + CommonClientConfigs.BOOTSTRAP_SERVERS_CONFIG;
 
-  public static final String KEY_HEADER = "key";
+  public static final String KEY_HEADER = "key22";
   public static final String DEFAULT_TOPIC_OVERRIDE_HEADER = "topic";
   public static final String TOPIC_OVERRIDE_HEADER = "topicHeader";
   public static final String ALLOW_TOPIC_OVERRIDE_HEADER = "allowTopicOverride";
